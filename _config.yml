@@ -1,5 +1,5 @@
 title: Project Meteor
-author: Shooting Star
+author: Test_Shrey
 logo: logo.png
 execute:
   execute_notebooks: false
@@ -12,7 +12,7 @@ exclude_patterns: [.github/*, manifests/*,  CHANGELOG.md, docs/ML-Prague-2021-Wo
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/AICoE/elyra-aidevsecops-tutorial  # Online location of your book
+  url: https://github.com/Shreyanand/elyra-aidevsecops-tutorial  # Online location of your book
   path_to_book: ""  # Optional path to your book, relative to the repository root
   branch: master  # Which branch of the repository should be used when creating links (optional)
 
@@ -21,7 +21,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  google_analytics_id: ""  # A GA id that can be used to track book views.
+  google_analytics_id: "UA-202413364-1"  # A GA id that can be used to track book views.
 
 # Launch button settings
 launch_buttons:
@@ -29,3 +29,5 @@ launch_buttons:
   binderhub_url             : https://mybinder.org  # The URL of the BinderHub (e.g., https://mybinder.org)
   jupyterhub_url            : https://jupyterhub-opf-jupyterhub.apps.zero.massopen.cloud  # The URL of the JupyterHub (e.g., https://datahub.berkeley.edu)
   thebe                     : false  # Add a thebe button to pages (requires the repository to run on Binder)
+
+
