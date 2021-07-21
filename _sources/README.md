@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q5C9M1MD3C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q5C9M1MD3C');
+</script>
+
 # Elyra AIDevSecOps Tutorial
 
 This tutorial is used to discuss the interface between Data Science and Dev/DevOps using project templates, pipelines and bots.
